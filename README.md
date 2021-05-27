@@ -1,4 +1,4 @@
-# compas 세종시 주택시장 분석**:house_with_garden:**
+# compas 세종시 주택시장 분석 :house_with_garden:
 
 #### 생갈치1호의행방불명 :tropical_fish:
 
